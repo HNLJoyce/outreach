@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>Outreach Districts</name>
+<Style id="s0"><LineStyle><color>ffffffff</color><width>1.5</width></LineStyle><PolyStyle><color>8cc8782a</color></PolyStyle></Style>
+<Style id="s1"><LineStyle><color>ffffffff</color><width>1.5</width></LineStyle><PolyStyle><color>8c2b82d9</color></PolyStyle></Style>
+<Placemark><name>District 1 – Downtown</name><styleUrl>#s0</styleUrl><ExtendedData>
+<Data name="District"><value>1</value></Data>
+<Data name="Areas"><value>Chinatown, Nuuanu, Makiki, Ala Moana, Kakaako</value></Data>
+<Data name="Lead Provider"><value>Institute for Human Services</value></Data>
+</ExtendedData><MultiGeometry>
+<Polygon><outerBoundaryIs><LinearRing><coordinates>-157.846,21.2817 -157.8701,21.2951 -157.8647,21.3032 -157.8675,21.3107 -157.8641,21.3178 -157.8604,21.3208 -157.8548,21.3133 -157.8393,21.33 -157.8015,21.3456 -157.8126,21.317 -157.8295,21.3064 -157.8364,21.2969 -157.8323,21.2956 -157.8349,21.289 -157.8444,21.2878 -157.846,21.2817</coordinates></LinearRing></outerBoundaryIs></Polygon>
+</MultiGeometry></Placemark>
+<Placemark><name>District 2 – Wahiawa</name><styleUrl>#s1</styleUrl><ExtendedData>
+<Data name="District"><value>2</value></Data>
+<Data name="Areas"><value>Wahiawa, Mililani, Schofield/Wheeler, Waialua, Waimea</value></Data>
+<Data name="Lead Provider"><value>Kealahou West Oʻahu</value></Data>
+</ExtendedData><MultiGeometry>
+<Polygon><outerBoundaryIs><LinearRing><coordinates>-158.0122,21.6959 -157.9889,21.6981 -157.9883,21.6935 -157.9816,21.6926 -157.9867,21.6858 -157.9803,21.685 -157.9801,21.6791 -157.986,21.6767 -157.9883,21.6592 -157.9789,21.656 -157.9603,21.6331 -157.9619,21.5995 -157.9538,21.586 -157.9403,21.5802 -157.9363,21.5696 -157.9242,21.5596 -157.9211,21.5321 -157.9075,21.507 -157.8918,21.4918 -157.8875,21.4674 -157.9327,21.4577 -157.9591,21.4458 -157.9771,21.443 -157.9937,21.4473 -158.0059,21.434 -158.0128,21.4046 -158.0258,21.4083 -158.0308,21.4428 -158.0413,21.4392 -158.0463,21.4169 -158.0688,21.3983 -158.0725,21.405 -158.0856,21.4041 -158.0959,21.4096 -158.0987,21.4137 -158.0903,21.4286 -158.097,21.4376 -158.1023,21.46 -158.1172,21.4772 -158.131,21.4805 -158.1452,21.5062 -158.1929,21.536 -158.1927,21.5415 -158.2196,21.5484 -158.2691,21.5745 -158.2836,21.575 -158.2006,21.5829 -158.168,21.579 -158.1217,21.5849 -158.1198,21.5806 -158.1164,21.5841 -158.1189,21.5893 -158.1036,21.5934 -158.1076,21.6031 -158.0761,21.626 -158.0687,21.6379 -158.0608,21.6393 -158.065,21.6434 -158.063,21.6551 -158.0378,21.6811 -158.0122,21.6959</coordinates></LinearRing></outerBoundaryIs></Polygon>
+</MultiGeometry></Placemark>
+<Placemark><name>District 3 – Pearl City</name><styleUrl>#s1</styleUrl><ExtendedData>
+<Data name="District"><value>3</value></Data>
+<Data name="Areas"><value>Aloha Stadium, Aiea, Pearl Harbor, Pearl City, Waipahu</value></Data>
+<Data name="Lead Provider"><value>Kealahou West Oʻahu</value></Data>
+</ExtendedData><MultiGeometry>
+<Polygon><outerBoundaryIs><LinearRing><coordinates>-157.9586,21.3709 -157.9494,21.369 -157.95,21.3648 -157.9655,21.3551 -157.9689,21.3614 -157.9586,21.3709</coordinates></LinearRing></outerBoundaryIs></Polygon>
+<Polygon><outerBoundaryIs><LinearRing><coordinates>-157.8881,21.4674 -157.885,21.4619 -157.8757,21.4612 -157.8725,21.4398 -157.8382,21.4176 -157.8383,21.4008 -157.8497,21.3978 -157.8763,21.3786 -157.9133,21.369 -157.9326,21.3495 -157.9657,21.3438 -157.9689,21.349 -157.9547,21.357 -157.944,21.3511 -157.949,21.3575 -157.9344,21.3768 -157.9409,21.3751 -157.9421,21.3794 -157.9629,21.3885 -157.9695,21.3855 -157.9659,21.3787 -157.9688,21.3697 -157.986,21.388 -157.9924,21.3862 -157.9866,21.3696 -157.975,21.3655 -157.9715,21.3417 -157.9813,21.352 -157.989,21.3517 -157.993,21.3569 -157.9877,21.3621 -157.9992,21.3564 -158.0057,21.3719 -158.0268,21.3756 -158.0471,21.4164 -158.0414,21.439 -158.0306,21.4434 -158.0257,21.4084 -158.0127,21.4045 -158.0057,21.4344 -157.9936,21.4473 -157.9769,21.4431 -157.9589,21.4458 -157.9329,21.4576 -157.8881,21.4674</coordinates></LinearRing></outerBoundaryIs></Polygon>
+</MultiGeometry></Placemark>
+<Placemark><name>District 4 – Kaneohe/Kailua/Kahuku</name><styleUrl>#s0</styleUrl><ExtendedData>
+<Data name="District"><value>4</value></Data>
+<Data name="Areas"><value>Kaneohe, Kailua, Kahuku, Waimanalo, MCBH Kaneohe, Waiahole/Waikane, Kahaluu, Hauula</value></Data>
+<Data name="Lead Provider"><value>Institute for Human Services</value></Data>
+</ExtendedData><MultiGeometry>
+<Polygon><outerBoundaryIs><LinearRing><coordinates>-157.6553,21.3214 -157.6558,21.3192 -157.6576,21.3198 -157.6553,21.3214</coordinates></LinearRing></outerBoundaryIs></Polygon>
+<Polygon><outerBoundaryIs><LinearRing><coordinates>-157.6545,21.3268 -157.6597,21.3297 -157.6559,21.3316 -157.6545,21.3268</coordinates></LinearRing></outerBoundaryIs></Polygon>
+<Polygon><outerBoundaryIs><LinearRing><coordinates>-157.6964,21.387 -157.699,21.3873 -157.6974,21.3885 -157.6964,21.387</coordinates></LinearRing></outerBoundaryIs></Polygon>
+<Polygon><outerBoundaryIs><LinearRing><coordinates>-157.6991,21.3927 -157.6979,21.3907 -157.7,21.3911 -157.6991,21.3927</coordinates></LinearRing></outerBoundaryIs></Polygon>
+<Polygon><outerBoundaryIs><LinearRing><coordinates>-157.7198,21.4002 -157.72,21.3994 -157.7212,21.3996 -157.7198,21.4002</coordinates></LinearRing></outerBoundaryIs></Polygon>
+<Polygon><outerBoundaryIs><LinearRing><coordinates>-157.7881,21.436 -157.7863,21.4329 -157.7903,21.4311 -157.7881,21.436</coordinates></LinearRing></outerBoundaryIs></Polygon>
+<Polygon><outerBoundaryIs><LinearRing><coordinates>-157.808,21.4633 -157.8049,21.463 -157.8065,21.4628 -157.808,21.4633</coordinates></LinearRing></outerBoundaryIs></Polygon>
+<Polygon><outerBoundaryIs><LinearRing><coordinates>-157.7186,21.4703 -157.7214,21.4684 -157.7222,21.4694 -157.7186,21.4703</coordinates></LinearRing></outerBoundaryIs></Polygon>
+<Polygon><outerBoundaryIs><LinearRing><coordinates>-157.7184,21.4708 -157.7193,21.4714 -157.7191,21.4725 -157.7184,21.4708</coordinates></LinearRing></outerBoundaryIs></Polygon>
+<Polygon><outerBoundaryIs><LinearRing><coordinates>-157.797,21.4765 -157.8,21.4763 -157.7993,21.4775 -157.797,21.4765</coordinates></LinearRing></outerBoundaryIs></Polygon>
+<Polygon><outerBoundaryIs><LinearRing><coordinates>-157.9208,21.664 -157.9252,21.6615 -157.924,21.6641 -157.9208,21.664</coordinates></LinearRing></outerBoundaryIs></Polygon>
+<Polygon><outerBoundaryIs><LinearRing><coordinates>-157.9832,21.7121 -157.9661,21.7095 -157.9328,21.6739 -157.9367,21.6683 -157.9271,21.6615 -157.9275,21.6527 -157.9125,21.6484 -157.9184,21.646 -157.921,21.6269 -157.8981,21.6024 -157.8858,21.5802 -157.875,21.5729 -157.8762,21.5572 -157.8705,21.5543 -157.8643,21.5605 -157.8547,21.558 -157.8419,21.542 -157.8346,21.5274 -157.8346,21.5095 -157.8513,21.5075 -157.8524,21.5028 -157.8491,21.487 -157.842,21.4832 -157.8446,21.4716 -157.8401,21.4589 -157.8348,21.4577 -157.8328,21.4623 -157.825,21.4531 -157.816,21.4546 -157.8123,21.4438 -157.8074,21.4426 -157.811,21.4375 -157.808,21.4328 -157.8051,21.4347 -157.8,21.4243 -157.7917,21.4284 -157.7883,21.423 -157.7912,21.4181 -157.7835,21.4096 -157.7667,21.4158 -157.7572,21.4357 -157.7772,21.4438 -157.773,21.4572 -157.7682,21.4564 -157.7633,21.4628 -157.745,21.4535 -157.7225,21.4592 -157.7258,21.4499 -157.7364,21.4441 -157.738,21.4255 -157.7437,21.4256 -157.7477,21.4192 -157.7419,21.4254 -157.7444,21.4189 -157.7387,21.4051 -157.7159,21.3933 -157.7057,21.3801 -157.7089,21.3599 -157.6933,21.3324 -157.6616,21.3157 -157.6591,21.3102 -157.65,21.3097 -157.6604,21.3081 -157.6852,21.3218 -157.7169,21.3171 -157.7259,21.3241 -157.7371,21.323 -157.7808,21.3362 -157.7881,21.343 -157.7906,21.3641 -157.8097,21.3693 -157.8108,21.3756 -157.8236,21.385 -157.8241,21.3951 -157.8398,21.4025 -157.8385,21.4179 -157.8725,21.4398 -157.8757,21.4612 -157.8872,21.4636 -157.8918,21.4918 -157.9075,21.507 -157.9202,21.5299 -157.9242,21.5596 -157.9363,21.5696 -157.9403,21.5802 -157.9538,21.586 -157.9619,21.5995 -157.9603,21.6331 -157.9789,21.656 -157.9883,21.6592 -157.986,21.6767 -157.9801,21.6791 -157.9803,21.685 -157.9867,21.6858 -157.9816,21.6926 -157.9883,21.6935 -157.9889,21.6981 -158.0116,21.6952 -158.0093,21.701 -158.001,21.7001 -157.9996,21.7073 -157.9899,21.7049 -157.9832,21.7121</coordinates></LinearRing></outerBoundaryIs></Polygon>
+</MultiGeometry></Placemark>
+<Placemark><name>District 5 – Kalihi</name><styleUrl>#s0</styleUrl><ExtendedData>
+<Data name="District"><value>5</value></Data>
+<Data name="Areas"><value>Iwilei, Kalihi, Nuuanu, Kapalama, Alewa, Fort Shafter, Moanalua, Salt Lake, DKI Airport, Hickam</value></Data>
+<Data name="Lead Provider"><value>Institute for Human Services</value></Data>
+</ExtendedData><MultiGeometry>
+<Polygon><outerBoundaryIs><LinearRing><coordinates>-157.8732,21.3085 -157.8709,21.2987 -157.884,21.2999 -157.8895,21.3125 -157.8732,21.3085</coordinates></LinearRing></outerBoundaryIs></Polygon>
+<Polygon><outerBoundaryIs><LinearRing><coordinates>-157.8373,21.4012 -157.8241,21.3951 -157.8236,21.385 -157.8108,21.3756 -157.8097,21.3693 -157.7906,21.3641 -157.7891,21.3532 -157.8393,21.3298 -157.8548,21.3132 -157.8604,21.3207 -157.8676,21.3104 -157.8706,21.3123 -157.8697,21.3086 -157.8781,21.3139 -157.8775,21.3201 -157.8908,21.3145 -157.8939,21.3335 -157.9196,21.3127 -157.9069,21.3099 -157.9068,21.3026 -157.9513,21.3045 -157.9469,21.3086 -157.9479,21.3165 -157.9594,21.3173 -157.9686,21.3315 -157.9651,21.3435 -157.9326,21.3493 -157.9132,21.3687 -157.8821,21.3759 -157.8497,21.3978 -157.8373,21.4012</coordinates></LinearRing></outerBoundaryIs></Polygon>
+</MultiGeometry></Placemark>
+<Placemark><name>District 6 – Waikiki</name><styleUrl>#s0</styleUrl><ExtendedData>
+<Data name="District"><value>6</value></Data>
+<Data name="Areas"><value>Waikiki, Kapiolani Park</value></Data>
+<Data name="Lead Provider"><value>Institute for Human Services</value></Data>
+</ExtendedData><MultiGeometry>
+<Polygon><outerBoundaryIs><LinearRing><coordinates>-157.8442,21.2845 -157.8335,21.2885 -157.817,21.2742 -157.8116,21.2663 -157.8158,21.2594 -157.8214,21.2612 -157.8253,21.2749 -157.8442,21.2845</coordinates></LinearRing></outerBoundaryIs></Polygon>
+</MultiGeometry></Placemark>
+<Placemark><name>District 7 – East Honolulu</name><styleUrl>#s0</styleUrl><ExtendedData>
+<Data name="District"><value>7</value></Data>
+<Data name="Areas"><value>Moiliili, UH Manoa, Kaimuki, Kahala, Hawaii Kai</value></Data>
+<Data name="Lead Provider"><value>Institute for Human Services</value></Data>
+</ExtendedData><MultiGeometry>
+<Polygon><outerBoundaryIs><LinearRing><coordinates>-157.8173,21.2752 -157.835,21.289 -157.8324,21.2956 -157.8364,21.297 -157.8128,21.3169 -157.8047,21.344 -157.7891,21.3532 -157.7872,21.3411 -157.7716,21.3331 -157.7371,21.323 -157.7259,21.3241 -157.7169,21.3171 -157.686,21.322 -157.6604,21.3081 -157.6486,21.31 -157.6509,21.299 -157.6863,21.2758 -157.6894,21.2687 -157.6956,21.2726 -157.6973,21.2681 -157.6918,21.2637 -157.7007,21.26 -157.7111,21.2611 -157.7093,21.2777 -157.7187,21.2854 -157.7571,21.2735 -157.7634,21.2756 -157.7916,21.2552 -157.8185,21.2576 -157.8117,21.2664 -157.8173,21.2752</coordinates></LinearRing></outerBoundaryIs></Polygon>
+</MultiGeometry></Placemark>
+<Placemark><name>District 8 – Kapolei</name><styleUrl>#s1</styleUrl><ExtendedData>
+<Data name="District"><value>8</value></Data>
+<Data name="Areas"><value>Kapolei, Ewa, Makakilo, Nanakuli, Waianae, Makaha</value></Data>
+<Data name="Lead Provider"><value>Kealahou West Oʻahu</value></Data>
+</ExtendedData><MultiGeometry>
+<Polygon><outerBoundaryIs><LinearRing><coordinates>-157.9779,21.3157 -158.0958,21.2939 -158.1125,21.2978 -158.136,21.3688 -158.1573,21.3925 -158.1769,21.4016 -158.1795,21.4285 -158.1918,21.4402 -158.1894,21.4445 -158.1931,21.4483 -158.1899,21.4487 -158.1983,21.451 -158.1969,21.4473 -158.2037,21.458 -158.2148,21.4597 -158.2193,21.4764 -158.2312,21.4829 -158.2284,21.5207 -158.2315,21.5372 -158.2487,21.5558 -158.2823,21.5752 -158.2689,21.5743 -158.2193,21.5486 -158.1928,21.5413 -158.1925,21.5357 -158.1448,21.5057 -158.1312,21.4804 -158.1172,21.4773 -158.1021,21.4608 -158.097,21.4378 -158.0902,21.4286 -158.0989,21.4136 -158.0957,21.4097 -158.0856,21.4041 -158.0726,21.4049 -158.0688,21.3983 -158.047,21.4164 -158.0268,21.3756 -157.9919,21.3487 -157.9824,21.3489 -157.975,21.3387 -157.97,21.3237 -157.9779,21.3157</coordinates></LinearRing></outerBoundaryIs></Polygon>
+</MultiGeometry></Placemark>
+</Document></kml>
